@@ -20,3 +20,7 @@ Test code in link below if I'm able to get this to run on my RPI's https://githu
 https://raspberrypi.stackexchange.com/questions/82850/use-raspberry-pi-as-keyboard-mouse-output-to-control-server
 
 Seems that only the weaker versions of the PI are able to simulate a keyboard. The PI thus must team up with an general or leonardo arduino board.
+
+## Game plan
+
+- Start out with arduino macro machine
