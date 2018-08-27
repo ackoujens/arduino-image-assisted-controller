@@ -16,3 +16,7 @@ Using Eth or USB to HDMI as inputs.
 https://stackoverflow.com/questions/32290289/rasberry-pi-hdmi-input-hdmi-output-for-image-processing
 
 Test code in link below if I'm able to get this to run on my RPI's https://github.com/c4software/pi-as-keyboard
+
+https://raspberrypi.stackexchange.com/questions/82850/use-raspberry-pi-as-keyboard-mouse-output-to-control-server
+
+Seems that only the weaker versions of the PI are able to simulate a keyboard. The PI thus must team up with an general or leonardo arduino board.
