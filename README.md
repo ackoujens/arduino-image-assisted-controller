@@ -24,3 +24,8 @@ Seems that only the weaker versions of the PI are able to simulate a keyboard. T
 ## Game plan
 
 - Start out with arduino macro machine
+
+This might replace it all (Malduino)
+https://www.youtube.com/watch?v=hL96cvvBf1k
+
+Why would this malduino be better than an ordinary UNO?
